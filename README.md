@@ -1,7 +1,7 @@
 # Lab 11: Advanced Firebase Integration
 
 ## Author
-Abdusamad Nigmatov (220063)
+Asqarjon Anvarov (220063)
 
 ## Project Structure
 ```
